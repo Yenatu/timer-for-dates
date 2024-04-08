@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #ffe;
+    margin: 1;
+    padding: 0;
+    
+}
+
+
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#countdown {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 24px;
+}
+
+.time-unit {
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #eee;
+}
+
+#time-left {
+    margin-top: 10px;
+    font-size: 18px;
+}
