@@ -9,6 +9,7 @@ body {
 
 .countdown-container{
     height: 100vh;
+    background-color: rgb(161, 172, 194);
 }
 
 h1 {
