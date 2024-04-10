@@ -22,6 +22,7 @@ h1 {
     align-items: center;
     gap: 15px;
     font-size: 25px;
+    background-color: aqua;
 }
 
 .time-unit {
