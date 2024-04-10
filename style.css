@@ -12,6 +12,7 @@ body {
 h1 {
     margin-bottom: 30px;
     background-color: hsl(0, 0%, 0%);
+    color: white;
 }
 
 #countdown {
