@@ -23,8 +23,8 @@ h1 {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 16px;
-    font-size: 25px;
+    gap: 15px;
+    font-size: 26px;
     background-color: aqua;
 }
 
