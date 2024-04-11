@@ -4,12 +4,13 @@ body {
     background-color: #ffe;
     margin: 0;
     padding: 0;
+    background-image: url("down.jpg");
     
 }
 
 .countdown-container{
     height: 100vh;
-    background-color: rgb(161, 172, 194);
+    /* background-color: rgb(161, 172, 194); */
 }
 
 h1 {
